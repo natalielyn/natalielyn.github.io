@@ -1,0 +1,1 @@
+<a href="./_posts/2019-11-25-day01"> Day 1 Blog </a>
