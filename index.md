@@ -1,3 +1,3 @@
 
-[Day01 Blog](https://natalielyn.github.io/_posts/day01)
+[Day01 Blog](https://natalielyn.github.io/_posts/day01/)
 
