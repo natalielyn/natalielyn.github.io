@@ -1,3 +1,8 @@
-
-[Day01 Blog](https://natalielyn.github.io/_posts/2019-11-26-Day-1)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
